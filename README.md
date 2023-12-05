@@ -26,9 +26,9 @@ O tema aborda o impacto das plataformas de desempenho de alunos na educação co
 
 - **Frontend:** JavaScript, HTML5, CSS3
 - **Backend:** Python, Flask
-- **Banco de Dados:** MongoDB
+- **Banco de Dados:** https://www.kaggle.com/code/mathewvondersaar/analysis-of-student-performance/input
 
-## Membros da Equipe]
+## Membros da Equipe
 
 Jamille Maria , Levi Gila , Maria Eugenia, Maria Alice , Vinícius Rodrigues
 

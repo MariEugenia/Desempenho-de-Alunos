@@ -1,4 +1,4 @@
-**Nome do Projeto: Plataforma de Desempenho Escolar**
+## DataEdu
 
 ## Descrição
 
